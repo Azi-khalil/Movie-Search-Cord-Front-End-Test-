@@ -1,7 +1,6 @@
 import React from "react";
 import styled, { css } from 'styled-components';
 
-import * as colors from "../../colors";
 import ExpandableFilter from "../../components/expandablefilter";
 import SearchBar from "../../components/searchbar";
 

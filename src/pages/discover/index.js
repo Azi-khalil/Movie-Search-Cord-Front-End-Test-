@@ -2,10 +2,6 @@ import React from "react";
 import styled from 'styled-components';
 import axios from 'axios'
 
-
-import * as colors from "../../colors";
-import * as fetcher from "../../fetcher";
-
 import SearchFilters from "../../components/searchfilter";
 import MovieList from "../../components/movielist";
 
